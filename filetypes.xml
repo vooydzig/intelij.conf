@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="azure_credentials" type="PLAIN_TEXT" />
+      <mapping pattern="f4d85ffb-2bab-489c-a30c-0ac51bf92573_713" type="PLAIN_TEXT" />
+      <mapping pattern="f4d85ffb-2bab-489c-a30c-0ac51bf92573_123" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
