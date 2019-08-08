@@ -1,4 +1,7 @@
 <keymap version="1" name="Default for macOS copy" parent="Mac OS X 10.5+">
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="alt g" second-keystroke="alt b" />
+  </action>
   <action id="DecrementWindowHeight" />
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift meta up" />
@@ -6,7 +9,17 @@
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="shift meta down" />
   </action>
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift meta f" />
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
+  <action id="Git.CompareWithBranch">
+    <keyboard-shortcut first-keystroke="alt g" second-keystroke="alt d" />
+  </action>
   <action id="IncrementWindowHeight" />
+  <action id="LocalHistory.ShowHistory">
+    <keyboard-shortcut first-keystroke="alt h" second-keystroke="alt h" />
+  </action>
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
   <action id="NewElementSamePlace">
@@ -25,5 +38,8 @@
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift ctrl e" />
+  </action>
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="alt g" second-keystroke="alt h" />
   </action>
 </keymap>
