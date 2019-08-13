@@ -32,7 +32,6 @@
     <keyboard-shortcut first-keystroke="meta help" />
   </action>
   <action id="OptimizeImports">
-    <keyboard-shortcut first-keystroke="ctrl alt o" />
     <keyboard-shortcut first-keystroke="meta alt o" />
   </action>
   <action id="ResetColumnsWidth" />
