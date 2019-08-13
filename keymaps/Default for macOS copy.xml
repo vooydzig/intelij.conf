@@ -20,6 +20,7 @@
   <action id="Git.CompareWithBranch">
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="alt d" />
   </action>
+  <action id="GotoSymbol" />
   <action id="IncrementWindowHeight" />
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="alt h" second-keystroke="alt h" />
@@ -29,6 +30,10 @@
   <action id="NewElementSamePlace">
     <keyboard-shortcut first-keystroke="ctrl alt n" />
     <keyboard-shortcut first-keystroke="meta help" />
+  </action>
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
+    <keyboard-shortcut first-keystroke="meta alt o" />
   </action>
   <action id="ResetColumnsWidth" />
   <action id="ResizeToolWindowDown" />
